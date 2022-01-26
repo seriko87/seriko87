@@ -8,6 +8,4 @@ I'm a Highly motivated, dependable, detail-oriented, and creative developer. I'm
             Soft Skills: Communication, Teamwork, Leadership, Problem-solving, Time Management
             Languages: JavaScript, Python, SQL, PHP
 
-You can know more about me [here]:https://www.linkedin.com/in/serikashyr
-
-Read my CV here.
+You can know more about me [here](https://www.linkedin.com/in/serikashyr).
