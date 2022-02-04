@@ -1,6 +1,6 @@
 Hi, Sera here 👋
 
-👨‍💻 Innovative Front End Developer with 4+ years of experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks. Strong administrative professional with an M.S. in Web and Application Development focused in Web and Application Development from Touro College.
+👨‍💻 Detail-oriented Front End Developer with 3+ years of experience in HTML, CSS, JavaScript, and 1+ years of experience with React seeking full-time Front End Developer roles. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks. 
 
 I'm a Highly motivated, dependable, detail-oriented, and creative developer. I'm a Quick learner who is eager to work in a fast-paced environment focused on customer service, teamwork, and job completion.
 
